@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm dushihao, iOSer.
-- 🌱 I’m currently learning swift
+- 🌱 I’m currently learning Swift
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dushihao&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
