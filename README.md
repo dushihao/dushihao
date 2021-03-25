@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm dushihao, iOSer.
+I'm dushihao, iOS developer.
+- 🔭 I’m currently working on HangZhou
 - 🌱 I’m currently learning Swift 
+- 📫 How to reach me: 1093394182@qq.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dushihao&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
